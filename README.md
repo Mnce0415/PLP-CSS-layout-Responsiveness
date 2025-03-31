@@ -1,14 +1,14 @@
 I need some help here. 
 
 On VSCode when I open with live server having the lines:
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+meta charset="UTF-8"
+meta name="viewport" content="width=device-width, initial-scale=1.0"
 
 My code was completely irresponsive and gave big content.
 
 
 After ignoring the lines above and this one: 
-<link rel="stylesheet" href="styling.css">
+link rel="stylesheet" href="styling.css"
 
 It worked very well and responsiveness was there
 
